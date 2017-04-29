@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1491503407 source:c:\users\elias\desktop\tachitodebasura-master\menudeopciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"milibreria.h"
+
+1491503493 c:\users\elias\desktop\tachitodebasura-master\menudeopciones\milibreria.h
+	<stdio.h>
+	<stdlib.h>
+
+1491503885 source:c:\users\elias\desktop\tachitodebasura-master\menudeopciones\milibreria.c
+	<stdio.h>
+	<stdlib.h>
+	"milibreria.h"
+
